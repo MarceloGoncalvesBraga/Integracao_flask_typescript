@@ -2,11 +2,13 @@
 
 Usa o flask com back e typerscript com Front
 uso em linux, no terminal na pasta back digite flask run, ou python3 app.py
+va até o endereco 
+http://localhost:3008/saudation
+
 no navegador nesta rota deve aparecer uma msg de acordo com o horario do dia
 
-http://localhost:3008/saudation
 {
-  "saudation": "Boa dia! "
+  "saudation": "Bom dia! "
 }
 
 na pasta front use npm run dev
