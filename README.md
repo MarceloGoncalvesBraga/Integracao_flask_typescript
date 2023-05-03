@@ -19,5 +19,5 @@ abrira na porta 3000
 
 uso livre </br>
 
- ele busca em questions e analisa a melhor atraves de algoritmo de distância de Jaro-Winkler para calcular a similaridade entre duas strings.
- que retorna a com maior pontuacao e pega sua response, depois sorteia uma resposta nao o prendendo em uma só!
+ ele busca em perguntas e analisa a melhor atraves de algoritmo de distância de Jaro-Winkler para calcular a similaridade entre duas strings.
+ que retorna a com maior pontuacao, e pega sua response, depois sorteia uma resposta, nao o prendendo em uma só!
